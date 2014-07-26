@@ -1,0 +1,9 @@
+{
+  "name": "chaty",
+  "version": "0.0.1",
+  "description": "A simple chat room for fun and maybe profit",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  }
+}
