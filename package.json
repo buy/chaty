@@ -4,6 +4,7 @@
   "description": "A simple chat room for fun and maybe profit",
   "dependencies": {
     "socket.io": "~0.9.6",
-    "mime": "~1.2.7"
+    "mime": "~1.2.7",
+    "coffee-script-redux": "2.0.0-beta7"
   }
 }
